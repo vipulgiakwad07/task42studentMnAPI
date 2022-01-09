@@ -41,7 +41,7 @@ app.use(function(err, req, res, next) {
 module.exports = app;
 */
 
-const http = require('http');
+/*const http = require('http');
 
 const server =http.createServer{(req,res)=> {
   if (req.url === '/'){
@@ -50,4 +50,4 @@ const server =http.createServer{(req,res)=> {
   }
 }
 
-}
+}*/
